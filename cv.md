@@ -56,3 +56,10 @@
 
 - Java
 - Python
+
+## Примеры кода
+
+1. [Lorem Ipsum](http://google.com)
+1. ```
+   console.log('Hello, CV');
+   ```
