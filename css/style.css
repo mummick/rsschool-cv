@@ -45,3 +45,11 @@ ul {
   margin-top: 5px;
   margin-left: 10px;
 }
+
+footer {
+  display: flex;
+}
+
+.rs-link {
+  margin-left: auto;
+}
