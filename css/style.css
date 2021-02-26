@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+aside,
+main,
+footer {
+  margin: 5px;
+  padding: 10px;
+  border: 1px dashed black;
+  border-radius: 10px;
+}
+
+article {
+  max-width: 1000px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 0;
+}
+
+header,
+footer {
+  grid-column: span 2;
+  display: flex;
+}
+
+.avatar {
+  height: 8rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: auto;
+}
