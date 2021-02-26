@@ -35,3 +35,13 @@ h1 {
   font-size: 3rem;
   margin: auto;
 }
+
+ul {
+  padding-left: 5px;
+  list-style: none;
+}
+
+.work {
+  margin-top: 5px;
+  margin-left: 10px;
+}
